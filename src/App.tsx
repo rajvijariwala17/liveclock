@@ -1,4 +1,4 @@
-import Liveclock from './liveclock'
+import Liveclock from './components/liveclock'
 import './App.css'
 
 function App() {
